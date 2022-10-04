@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+  }
+
+.flexContainer {
+    border: 4px blue;
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-around;
+    align-content: center;
+    
+}
+.research {
+    width: 33%;
+    margin: 4px;
+    padding: 10px;
+    background-color: azure;
+}
+.design {
+    width: 33%;
+    margin: 4px;
+    padding: 10px;
+    background-color: aquamarine;
+}
+.development {
+    width: 33%;
+    margin: 4px;
+    padding: 10px;
+    background-color: aqua;
+}
+.tools {
+    width: 33%;
+    margin: 4px;
+    padding: 10px;
+    background-color: darkturquoise;
+}
+h3 {
+    text-align: center;
+    color: black;
+}
